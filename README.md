@@ -1,5 +1,7 @@
 # endpoints
 
+**Deployed URL** https://lambda-how-to-app.herokuapp.com/
+
 Endpoint | Method | Requirements
 ------------ | ------------- | ------------- 
 /api/auth/register | POST | username & password
