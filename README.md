@@ -1,6 +1,6 @@
-# endpoints
-
 **Deployed URL** https://lambda-how-to-app.herokuapp.com/
+
+## endpoints
 
 Endpoint | Method | Requirements
 ------------ | ------------- | ------------- 
@@ -18,7 +18,7 @@ Endpoint | Method | Requirements
 ------------ | ------------- | ------------- 
 
 
-# /api/posts schema
+## /api/posts schema
 
 name | type | required
 ---- | ---- | --------
@@ -28,7 +28,7 @@ materials|string|no
 video|string/url|no
 instruction|string|no
 
-# /api/posts/:id/steps schema
+## /api/posts/:id/steps schema
 
 name | type | required
 ---- | ---- | --------
